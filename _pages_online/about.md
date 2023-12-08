@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ I am Qixiang Chen, and I am currently a 3rd-year undergraduate student studying 
 
 I am curious about AI that shapes the world and the universe, and apply that curiosity to discover new things. 
 
-I have learnt to deal efficiently with complex projects in a time efficient manner. I have delivered a number of projects along the learning journey. I have also learnt to work in a team and to communicate effectively with others. I am a quick learner and I am always eager to learn new things.
+I have learnt to deal efficiently with complex projects in a time efficient manner. I have also learnt to work in a team and to communicate effectively with others. I am a quick learner and I am always eager to learn new things.
 
 <h2>Education</h2>
 
