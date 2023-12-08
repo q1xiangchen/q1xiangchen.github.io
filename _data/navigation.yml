@@ -3,13 +3,13 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "Experience/"
+  - title: "Experience"
     url: /experience/
 
-  - title: "Projects/"
+  - title: "Projects"
     url: /Projects/
 
-  - title: "Contact/"
+  - title: "Contact"
     url: /Contact/
     
   # - title: "Teaching"
