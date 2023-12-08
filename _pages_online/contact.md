@@ -20,6 +20,20 @@ a:hover {
 a:active {
   text-decoration: underline;
 }
+
+#copyConfirmation {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px;
+  background-color: #f8f8f8;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  z-index: 1000;
+}
 </style>
 
 <script>
@@ -30,7 +44,10 @@ function copyToClipboard(text) {
   dummy.select();
   document.execCommand("copy");
   document.body.removeChild(dummy);
-  alert("Email address copied: " + text);
+  
+  var confirmation = document.getElementById('copyConfirmation');
+  confirmation.style.display = 'block';
+  setTimeout(function(){ confirmation.style.display = 'none'; }, 2000);
 }
 </script>
 
@@ -46,3 +63,5 @@ My contact information is below.
   </tr>
 </table>
 </div>
+
+<div id="copyConfirmation">Email address copied to clipboard!</div>
