@@ -5,56 +5,58 @@ permalink: /contact/
 ---
 
 <style>
-a:link {
+a:link, a:visited {
   text-decoration: none;
 }
 
-a:visited {
-  text-decoration: none;
-}
-
-a:hover {
+a:hover, a:active {
   text-decoration: underline;
 }
 
-a:active {
-  text-decoration: underline;
-}
-
-#copyConfirmation {
-  visibility: hidden; /* Changed from display to visibility */
-  opacity: 0;
+#copyAlert {
+  display: none;
   position: fixed;
-  bottom: 60%;
+  bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
-  padding: 10px;
   background-color: #f8f8f8;
+  color: #333;
+  padding: 10px;
   border: 1px solid #ddd;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgb(0 0 0 / 17%);
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   z-index: 1000;
-  font-size: 12px;
-  transition: visibility 0s, opacity 0.5s linear; /* Added transition */
+}
+
+.fadeOut {
+  animation: fadeOut 2s;
+}
+
+@keyframes fadeOut {
+  from { opacity: 1; }
+  to { opacity: 0; }
 }
 </style>
 
 <script>
-function copyToClipboard(event, text) {
-  event.preventDefault();
+function copyToClipboard(text) {
   var dummy = document.createElement("textarea");
   document.body.appendChild(dummy);
   dummy.value = text;
   dummy.select();
   document.execCommand("copy");
   document.body.removeChild(dummy);
-  
-  var confirmation = document.getElementById('copyConfirmation');
-  confirmation.style.visibility = 'visible';
-  confirmation.style.opacity = '1';
-  setTimeout(function(){ 
-    confirmation.style.opacity = '0'; 
-    confirmation.style.visibility = 'hidden';
+
+  var alertBox = document.getElementById("copyAlert");
+  alertBox.innerHTML = "Email address copied: " + text;
+  alertBox.style.display = "block";
+
+  setTimeout(function() {
+    alertBox.classList.add("fadeOut");
+    setTimeout(function() {
+      alertBox.style.display = "none";
+      alertBox.classList.remove("fadeOut");
+    }, 2000);
   }, 2000);
 }
 </script>
@@ -72,4 +74,4 @@ My contact information is below.
 </table>
 </div>
 
-<div id="copyConfirmation">Email address copied to clipboard!</div>
+<div id="copyAlert"></div>
