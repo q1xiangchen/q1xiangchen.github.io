@@ -22,17 +22,20 @@ a:active {
 }
 
 #copyConfirmation {
-  display: none;
+  visibility: hidden; /* Changed from display to visibility */
+  opacity: 0;
   position: fixed;
-  bottom: 20px;
+  bottom: 60%;
   left: 50%;
   transform: translateX(-50%);
   padding: 10px;
   background-color: #f8f8f8;
   border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgb(0 0 0 / 17%);
   z-index: 1000;
+  font-size: 12px;
+  transition: visibility 0s, opacity 0.5s linear; /* Added transition */
 }
 </style>
 
