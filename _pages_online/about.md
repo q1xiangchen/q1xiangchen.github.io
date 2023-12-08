@@ -16,6 +16,6 @@ I have learnt to deal efficiently with complex projects in a time efficient mann
 
 <h2>Education</h2>
 
-**Bachelor of Advanced Computing (Honours)** - Australian National University (Jul. 2022 - Present)
+**Bachelor of Advanced Computing (Honours)** - Australian National University (Jul 2022 - Present)
 
-**Bachelor of Software Engineering (Honours)** - Australian National University (Feb. 2021 - Jun. 2022)
+**Bachelor of Software Engineering (Honours)** - Australian National University (Feb 2021 - Jun 2022)
