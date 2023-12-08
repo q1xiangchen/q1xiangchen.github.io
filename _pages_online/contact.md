@@ -16,16 +16,17 @@ a:hover, a:active {
 #copyAlert {
   display: none;
   position: fixed;
-  bottom: 20px;
+  bottom: 60%;
   left: 50%;
   transform: translateX(-50%);
   background-color: #f8f8f8;
   color: #333;
   padding: 10px;
   border: 1px solid #ddd;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
+  font-size: 12px;
 }
 
 .fadeOut {
@@ -48,7 +49,7 @@ function copyToClipboard(text) {
   document.body.removeChild(dummy);
 
   var alertBox = document.getElementById("copyAlert");
-  alertBox.innerHTML = "Email address copied: " + text;
+  alertBox.innerHTML = "Email address copied! ";
   alertBox.style.display = "block";
 
   setTimeout(function() {
@@ -56,8 +57,8 @@ function copyToClipboard(text) {
     setTimeout(function() {
       alertBox.style.display = "none";
       alertBox.classList.remove("fadeOut");
-    }, 2000);
-  }, 2000);
+    }, 1000);
+  }, 1000);
 }
 </script>
 
