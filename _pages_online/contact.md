@@ -21,7 +21,7 @@ a:hover, a:active {
   transform: translateX(-50%);
   background-color: #f8f8f8;
   color: #333;
-  padding: 10px;
+  padding: 8px;
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -58,7 +58,7 @@ function copyToClipboard(text) {
       alertBox.style.display = "none";
       alertBox.classList.remove("fadeOut");
     }, 1000);
-  }, 1000);
+  }, 2000);
 }
 </script>
 
