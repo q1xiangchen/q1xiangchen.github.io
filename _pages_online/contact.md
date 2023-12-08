@@ -40,7 +40,8 @@ a:active {
 </style>
 
 <script>
-function copyToClipboard(text) {
+function copyToClipboard(event, text) {
+  event.preventDefault();
   var dummy = document.createElement("textarea");
   document.body.appendChild(dummy);
   dummy.value = text;
@@ -49,8 +50,12 @@ function copyToClipboard(text) {
   document.body.removeChild(dummy);
   
   var confirmation = document.getElementById('copyConfirmation');
-  confirmation.style.display = 'block';
-  setTimeout(function(){ confirmation.style.display = 'none'; }, 2000);
+  confirmation.style.visibility = 'visible';
+  confirmation.style.opacity = '1';
+  setTimeout(function(){ 
+    confirmation.style.opacity = '0'; 
+    confirmation.style.visibility = 'hidden';
+  }, 2000);
 }
 </script>
 
