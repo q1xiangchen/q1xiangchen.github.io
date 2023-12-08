@@ -11,9 +11,9 @@ title                    : "Qixiang Chen"
 title_separator          : "-"
 name                     : &name "Qixiang Chen"
 description              : &description "CS student at the Australian National University"
-url                      : https://qixiangchen0.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://q1xiangchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qixiangchen0.github.io"
+repository               : "q1xiangchen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qixiangchen0"
+  github           : "q1xiangchen"
   google_plus      :
   keybase          :
   instagram        :
