@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qixiang Chen"
 title_separator          : "-"
 name                     : &name "Qixiang Chen"
-description              : &description "CS student at the Australian National University, enthusiastic about learning and exploring new things."
+description              : &description "Research Student at ANU, Research Intern at Active Intelligence Corp."
 url                      : https://q1xiangchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "q1xiangchen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qixiang Chen"
   avatar           : "profile.jpg"
-  bio              : "CS student at the Australian National University, enthusiastic about learning and exploring new things."
+  bio              : "Research Student at ANU, Research Intern at Active Intelligence Corp."
   location         :  # "Location"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

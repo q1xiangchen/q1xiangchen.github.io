@@ -17,18 +17,11 @@ a:hover, a:active {
 ## Industry Research
   - *19/09/2023 - <span style="color: blue;">present</span>*: **Research Intern**
     - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
-    - **Country manager**: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
-    - Received the **Active Intelligence Research Challenge Award**.
+    - Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
+    - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**.</span>
 
 
 ## Academic Research
-  - *20/11/2023 - <span style="color: blue;">present</span>*: **Summer Research Intern**
+  - *20/11/2023 - <span style="color: blue;">present</span>*: **Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
-    - **Supervisor:** [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
-
-
-## Honors & Awards
-
-- **The Active Intelligence Research Challenge Award**
-    - **Issued by:** Active Intelligence Corp.  
-    - **Date:** 19/09/2023
+    - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)

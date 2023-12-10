@@ -18,24 +18,30 @@ a:hover, a:active {
 }
 </style>
 
-I am Qixiang Chen, and I am currently a 3rd-year undergraduate student studying for a Bachelor of Advanced Computing degree, majoring in Computer Vision and Machine Learning at ANU under supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU).
+Qixiang Chen is a third-year undergraduate student working towards a Bachelor of Advanced Computing degree, majoring in Computer Vision and Machine Learning at ANU. 
 
-I am curious about AI that shapes the world and the universe, and apply that curiosity to discover new things. I'm currently focusing on using machine learning, computer vision, and deep learning to tackle cool challenges in videos. It's all about finding interesting ways to solve problems with these technologies.
+Currently, he is a Research Student conducting his honours research project under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO). Additionally, he serves as a Research Intern at Active Intelligence Australia Pty Ltd in Perth. He has been recognized with the 1st Annual Active Intelligence Research Challenge Award.
 
-I have learnt to deal efficiently with complex projects in a time efficient manner. Being a quick learner, I'm always enthusiastic about exploring and acquiring new knowledge.
+Qixiang's research interests span a range of areas, including fine-grained recognition, video image processing, and computer vision.
 
-<h3>Research Interests</h3>
+
+<!-- <h3>Research Interests</h3>
 
 - Action Recognition
 - Anomaly Detection
 - Video Image Processing
 - Computer Vision
 - Deep Learning
-- Machine Learning
+- Machine Learning -->
 
+<h3> Honors & Awards</h3>
+
+- **The Active Intelligence Research Challenge Award**
+    - **Issued by:** Active Intelligence Corp.  
+    - **Date:** 19/09/2023
 
 <h3>Education</h3>
 
-- **Bachelor of Advanced Computing (Honours)** - BAC, Advanced Computing, The Australian National University (ANU), *25 Jul 2022 - Present*
+- **Bachelor of Advanced Computing (Honours)** - BAC, Advanced Computing, The Australian National University (ANU), *25 Jul 2022 - <span style="color: blue;">present</span>*
 
 - **Bachelor of Software Engineering (Honours)** - BSEHons, Software Engineering, The Australian National University (ANU), *21 Feb 2021 - 30 Jun 2022*
