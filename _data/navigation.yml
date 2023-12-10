@@ -6,5 +6,8 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Services"
+    url: /services/
+
   - title: "Contact"
     url: /contact/

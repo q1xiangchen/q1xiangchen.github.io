@@ -23,4 +23,3 @@ permalink: /projects/
   - **Resources:** [GitHub](https://github.com/q1xiangchen/CycleGAN_vehicle), [Report](/files/I2I_report.pdf)
 
     \* Feel free to explore the code repository for a deeper understanding of the methodologies applied and the results obtained.
-
