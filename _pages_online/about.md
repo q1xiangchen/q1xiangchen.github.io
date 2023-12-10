@@ -16,6 +16,7 @@ a:link, a:visited {
 a:hover, a:active {
   text-decoration: underline;
 }
+</style>
 
 I am Qixiang Chen, and I am currently a 3rd-year undergraduate student studying for a Bachelor of Advanced Computing degree, majoring in Computer Vision and Machine Learning at ANU under supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU).
 

@@ -12,6 +12,7 @@ a:link, a:visited {
 a:hover, a:active {
   text-decoration: underline;
 }
+</style>
 
 ## Industry Research
   - *19/09/2023 - <span style="color: blue;">present</span>*: **Research Intern**

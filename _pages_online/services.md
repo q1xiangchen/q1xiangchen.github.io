@@ -12,6 +12,7 @@ a:link, a:visited {
 a:hover, a:active {
   text-decoration: underline;
 }
+</style>
 
 ## Research Seminar
 

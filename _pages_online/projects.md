@@ -12,6 +12,7 @@ a:link, a:visited {
 a:hover, a:active {
   text-decoration: underline;
 }
+</style>
 
 ## Industry Projects
   - **Robust anomaly detection in human-centric videos**
@@ -23,6 +24,10 @@ a:hover, a:active {
 
 ## Academic Projects
   - **Action Recognition in Videos**
+    - **Duration:** 20/11/2023 - Present
+    - **Supervisor:** [Dr. Lei Wang](https://leiwangr.github.io/)
+    - **Objective:** This project focuses on the application of deep learning techniques for the purpose of action recognition in videos. The goal is to develop a model that can accurately identify the actions performed in a video, such as walking, running, and jumping.
+  - **A closer look at finegrained motions**
     - **Duration:** 20/11/2023 - Present
     - **Supervisor:** [Dr. Lei Wang](https://leiwangr.github.io/)
 
