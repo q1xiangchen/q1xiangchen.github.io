@@ -38,9 +38,9 @@ a:hover, a:active {
 ## Completed Projects
 
 - **Vehicle Image Translation: Adapting Synthetic Styles to Real-World Scenarios**
-  - **Duration:** *19/10/2023 - 30/10/2023*
-  - **Objective:** This project focuses on the application of Generative Adversarial Networks (GANs), specifically CycleGAN, for the purpose of image-to-image translation. The goal is to stylistically adapt vehicle images from the synthetic Vehicle-X dataset to resemble those in the real-world VeRi dataset, enhancing the robustness and accuracy of vehicle recognition algorithms.
-  - **Achievements:**
+  - Duration: *19/10/2023 - 30/10/2023*
+  - Objective: This project focuses on the application of Generative Adversarial Networks (GANs), specifically CycleGAN, for the purpose of image-to-image translation. The goal is to stylistically adapt vehicle images from the synthetic Vehicle-X dataset to resemble those in the real-world VeRi dataset, enhancing the robustness and accuracy of vehicle recognition algorithms.
+  - Achievements:
     - Successfully trained a CycleGAN model to transform the style of Vehicle-X images to align with VeRi dataset aesthetics.
     - Improved the domain adaptation for vehicle recognition tasks in varied lighting and environmental conditions.
-  - **Resources:** [GitHub](https://github.com/q1xiangchen/CycleGAN_vehicle), [Report](/files/I2I_report.pdf) (Feel free to explore the code repository for a deeper understanding of the methodologies applied and the results obtained)
+  - Resources: [GitHub](https://github.com/q1xiangchen/CycleGAN_vehicle), [Technical Report ](/files/I2I_report.pdf)
