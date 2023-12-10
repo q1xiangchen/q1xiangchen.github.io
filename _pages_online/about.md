@@ -37,8 +37,8 @@ Qixiang's research interests span a range of areas, including fine-grained recog
 <h3> Honors & Awards</h3>
 
 - **The Active Intelligence Research Challenge Award**
-    - **Issued by:** Active Intelligence Corp.  
-    - **Date:** 19/09/2023
+    - Issued by: Active Intelligence Corp.  
+    - Date: *19/09/2023*
 
 <h3>Education</h3>
 
