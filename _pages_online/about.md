@@ -16,11 +16,11 @@ I have learnt to deal efficiently with complex projects in a time efficient mann
 
 <h3>Research Interests</h3>
 
-- **Video Anomaly Detection**
-- **Video Action Recognition**
-- **Computer Vision**
-- **Machine Learning**
-- **Deep Learning**
+- Action Recognition
+- Video Anomaly Detection
+- Video Prediction
+- Computer Vision
+- Machine Learning
 
 
 <h3>Education</h3>
