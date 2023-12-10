@@ -14,6 +14,15 @@ I am curious about AI that shapes the world and the universe, and apply that cur
 
 I have learnt to deal efficiently with complex projects in a time efficient manner. Being a quick learner, I'm always enthusiastic about exploring and acquiring new knowledge.
 
+<h3>Research Interests</h3>
+
+- **Video Anomaly Detection**
+- **Video Action Recognition**
+- **Computer Vision**
+- **Machine Learning**
+- **Deep Learning**
+
+
 <h3>Education</h3>
 
 - **Bachelor of Advanced Computing (Honours)** - The Australian National University, *Jul 2022 - Present*

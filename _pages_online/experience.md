@@ -3,13 +3,18 @@ title: "Experience"
 layout: archive
 permalink: /experience/
 ---
-<!-- Add more here -->
+## Industry Research
+  - *dd/mm/2023 - <span style="color: blue;">present</span>*: Research Intern
+    - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
+    - **Country manager**: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/)
+    - Received the **Active Intelligence Research Challenge Award (Industry AIR Award)**.
 
-## Group Seminar Presentation
 
-| Topic                                                       | Date       | Hosted by  | Summary                                                                                                             | Resources                                    |
-|-------------------------------------------------------------|------------|------------|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| Accelerating Research: NCI GADI GPU Insights | 8 Dec 2023 | Dr. Lei Wang | This presentation summarizes key points on optimizing the use of computing resources on the NCI (GADI) cluster, covering Environment setups, Job Submission, GPU interaction, Data management and so on. | [Slides](/files/gadi_instructions.pdf), [Supplementary Files](/files/supp.zip) |
+## Academic Research
+  - *20/11/2023 - <span style="color: blue;">present</span>*: Summer Research Intern
+    - School of Computing, ANU College of Engineering, Computing and Cybernetics
+    - **Supervisor:** [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
+
 
 ## Honors & Awards
 

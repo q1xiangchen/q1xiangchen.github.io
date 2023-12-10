@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qixiang Chen"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate student studying for a Bachelor of Advanced Computing degree at ANU."
+  bio              : "CS Research student at ANU."
   location         :  # "Location"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -234,6 +234,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _contact
   - scope:
       path: ""
@@ -242,6 +251,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:

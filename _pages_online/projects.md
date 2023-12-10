@@ -3,11 +3,14 @@ title: "Projects"
 layout: archive
 permalink: /projects/
 ---
-## Ongoing Projects
-I am currently working on the following projects:
+## Industry Projects
+  - **Robust anomaly detection in human-centric videos**
+    - **Duration:** 01/2024 - 06/2024
+    - **Research Grant:** The NCI National AI Flagship Merit Allocation Scheme.
 
+## Academic Projects
   - **Action Recognition in Videos**
-    - Thanks to Dr. Lei Wang and the Active Intelligence Corp for providing the opportunity to work on this project.
+    - **Duration:** Dec 2023 - Present
 
 ## Completed Projects
 
@@ -19,5 +22,5 @@ I am currently working on the following projects:
     - Improved the domain adaptation for vehicle recognition tasks in varied lighting and environmental conditions.
   - **Resources:** [GitHub](https://github.com/q1xiangchen/CycleGAN_vehicle), [Report](/files/I2I_report.pdf)
 
-Feel free to explore the code repository for a deeper understanding of the methodologies applied and the results obtained.
+    \* Feel free to explore the code repository for a deeper understanding of the methodologies applied and the results obtained.
 
