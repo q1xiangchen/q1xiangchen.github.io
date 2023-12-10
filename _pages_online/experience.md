@@ -3,11 +3,21 @@ title: "Experience"
 layout: archive
 permalink: /experience/
 ---
+
+<style>
+a:link, a:visited {
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  text-decoration: underline;
+}
+
 ## Industry Research
-  - *dd/mm/2023 - <span style="color: blue;">present</span>*: **Research Intern**
+  - *19/09/2023 - <span style="color: blue;">present</span>*: **Research Intern**
     - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
     - **Country manager**: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/)
-    - Received the **Active Intelligence Research Challenge Award (Industry AIR Award)**.
+    - Received the **Active Intelligence Research Challenge Award**.
 
 
 ## Academic Research
@@ -18,6 +28,6 @@ permalink: /experience/
 
 ## Honors & Awards
 
-- **The Active Intelligence Research Challenge Award (Industry AIR Award)**
+- **The Active Intelligence Research Challenge Award**
     - **Issued by:** Active Intelligence Corp.  
-    - **Date:** Sep 2023
+    - **Date:** 19/09/2023
