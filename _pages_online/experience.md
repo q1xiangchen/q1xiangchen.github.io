@@ -15,17 +15,16 @@ a:hover, a:active {
 </style>
 
 ## Industry Research
-  - *19/09/2023 - <span style="color: blue;">present</span>*: **Research Intern**
-    - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
-    - Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
-    - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
-
   - *01/01/2024 - 30/06/2024*: **Assistant Researcher**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO)
     - Research project: Robust anomaly detection in human-centric videos
     - HPC grant: <span style="color:red;"> **The NCI National AI Flagship Merit Allocation Scheme**</span>
 
+  - *19/09/2023 - <span style="color: blue;">present</span>*: **Research Intern**
+    - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
+    - Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
+    - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
 
 ## Academic Research
   - *01/01/2024 - 31/12/2024*: **Assistant Researcher**
