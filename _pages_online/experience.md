@@ -27,7 +27,7 @@ a:hover, a:active {
     - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
 
 ## Academic Research
-  - *01/01/2024 - 31/12/2024*: **Assistant Researcher**
+  - *01/01/2024 - 31/12/2024*: **Honours Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
     - Research project: MotionNetLite - Video Dynamics Distillation for Scalable Models
