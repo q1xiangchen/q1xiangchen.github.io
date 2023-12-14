@@ -30,10 +30,10 @@ a:hover, a:active {
   - *01/01/2024 - 31/12/2024*: **Honours Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
-    - Research project: MotionNetLite - Video Dynamics Distillation for Scalable Models
+    - Research project: A closer look at finegrained motions (Honours research project)
     - HPC grant: <span style="color:red;">**National Computational Merit Allocation Scheme (NCMAS 2024)**</span>
 
-  - *20/11/2023 - <span style="color: blue;">present</span>*: **Research Student**
+  - *20/11/2023 - <span style="color: blue;">present</span>*: **Summer Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
 
