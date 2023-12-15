@@ -15,7 +15,7 @@ a:hover, a:active {
 </style>
 
 ## Industry Research
-  - *01/01/2024 - 30/06/2024*: **Assistant Researcher**
+  - *01/01/2024 - 30/06/2024*: **Researcher**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO)
     - Research project: Robust anomaly detection in human-centric videos
@@ -36,6 +36,7 @@ a:hover, a:active {
   - *20/11/2023 - <span style="color: blue;">present</span>*: **Summer Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
+    - Research project: Point Clouds-based Gesture Recognition
 
   - *01/10/2023 - 31/12/2023*: **Assistant Researcher**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
