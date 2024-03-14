@@ -18,7 +18,7 @@ a:hover, a:active {
 }
 </style>
 
-Qixiang Chen is a third-year undergraduate student working towards a Bachelor of Advanced Computing degree, majoring in Computer Vision and Machine Learning at ANU. 
+Qixiang Chen is a fourth-year undergraduate student working towards a Bachelor of Advanced Computing degree, majoring in Computer Vision and Machine Learning at ANU. 
 
 Currently, he is a Research Student conducting his honours research project under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO). Additionally, he serves as a Research Intern at Active Intelligence Australia Pty Ltd in Perth. He has been recognized with the 1st Annual Active Intelligence Research Challenge Award.
 
