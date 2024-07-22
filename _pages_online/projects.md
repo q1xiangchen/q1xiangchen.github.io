@@ -35,14 +35,23 @@ a:hover, a:active {
       This work has potential to impact Safety and Security, Future Cities, IoT, Agri-business, Defence via applications in Health and wellbeing, Safety, and Innovative industries. Our work focuses on researching advanced technologies from data that support all areas of science and society to provide national benefit. Video understanding, e.g., action recognition and anomaly detection, is needed in surveillance of airports, malls, etc. It has applications in monitoring health and well-being of elderly population, in farming, and analysis of crops. This project has also potential to ‘Shape Societal Transformations’. For instance, action recognition is a necessary component in recognition from wearable clothing, monitoring health and exercise regimes in the gym, recommendation systems via wearables, recognition of fake videos on social media, etc.
 
       This project focuses on ‘Analysing, Representing and Modelling data’, as video processing models require spatio-temporal modeling of time series, video frames, sequences, etc. My proposal aims at overcoming ‘Fundamental limits of data’, e.g. by learning in-the-wild and reinforcement learning to explore natural sources of information (e.g. predicting future evolution of video frames learns intrinsic manifold of video/motion data). I hope to bring my ideas to the social media, wearable devices, and recommender systems thus shaping ‘data-driven society’.
-  - **Human action recognition in videos**
-    - Duration: *20/11/2023 - <span style="color: blue;">present</span>*
-    - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
-    - Objective: This project focuses on the application of deep learning techniques for the purpose of action recognition in videos. The goal is to develop a model that can accurately identify the actions performed in a video, such as walking, running, and jumping.
+
   - **A closer look at finegrained motions (Honours research project)**
-    - Duration: *20/11/2023 - <span style="color: blue;">present</span>*
+    - Duration: *19/02/2024 - <span style="color: blue;">present</span>*
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
     - Objective: For this project, we aim to develop a model that can accurately identify the fine-grained motions performed in a video. 
+
+## Completed Projects
+
+- **Synthesizing Artistic Realism: Stroke Painting Algorithms with Shader Enhancements**
+  - Duration: *23/05/2024 - 30/05/2024*
+  - Objective: Develop an enhanced method for synthesizing artistic realism through advanced stroke painting algorithms with shader enhancements. The goal was to transfer the stroke painting style from real-world photographs to digital images, improve the visual quality of these algorithms, and create a user-friendly interface for creating digital paintings with realistic brush strokes. The project also aimed to present vivid and lifelike representations of digital paintings in 3D.
+  - Achievements:
+    - Improved the visual quality of stroke painting algorithms from previous methods through cosine mapping, logistic function mapping, and shader enhancements.
+    - Developed an efficient and user-friendly program for creating digital paintings with realistic brush strokes.
+    - Achieved vivid and lifelike representations of digital paintings in 3D, bridging the gap between 2D and 3D painting rendering techniques.
+  - Resources: [GitHub](https://github.com/HuilinChen943/paintercpp), [Technical Report ](/files/cg_report.pdf)
+  
   - **Towards building general-purpose multimodal foundation models**
     - I am a Assistant Researcher in this project
     - Duration: *01/10/2023 - 31/12/2023*
@@ -50,7 +59,16 @@ a:hover, a:active {
     - Scope: Vision-language pre-training (VLP) has attracted rapidly growing attention in both computer vision and NLP communities due to the emergence of large-scale multimodal foundation models like Contrastive Language-Image Pre-training (CLIP). It is very encouraging to see that many Vision-Language (VL) systems have been deployed in industry. For example, iPhone can generate image captions read by VoiceOver for vision-impaired users. Although multimodal intelligence has been applied in many areas including image-text, core computer vision and video-text tasks, there are still many factors to be considered including robustness to new domains, fairness and responsible AI issues.
     - Aim: One common theme stands out is how to build a general-purpose multi-modal foundation model. We aim to build a foundation model that is stable and generalisable, and can be readily adopted to various downstream tasks, ranging from image-level vision tasks (e.g., image classification, retrieval, and captioning), region-level vision tasks (e.g., object detection and phrase grounding), to pixel-level vision tasks (e.g., segmentation and image generation). In order to build a general-purpose foundation model, we need a unified model architecture that can be readily scaled up; and when being pre-trained at scale, it can be readily adopted to various downstream computer vision and VL tasks.
 
-## Completed Projects
+  - **Motion meets Attention: Video Motion Prompts**
+    - Duration: *20/11/2023 - 19/01/2024*
+    - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
+    - Objective: Enhance the extraction and utilization of motion features in video content for action recognition tasks by developing a novel 'motion prompt layer'. This layer employs a modified Sigmoid function with adjustable slope and shift parameters to create and modulate attention maps from frame differencing maps. This setup aims to overcome the limitations of traditional 'blind motion extraction' methods by ensuring that only relevant motion signals are highlighted and used as inputs to the model, thereby improving the accuracy and efficiency of action recognition systems.
+    - Achievements:
+      - Developed a novel video motion prompt layer that can be seamlessly integrated into existing video model architectures like SlowFast, X3D, and TimeSformer.
+      - Introduced a temporal attention variation regularization to ensure smooth continuity of attention maps, enhancing the model's generalizability and interpretability.
+      - Achieved state-of-the-art performance on various benchmarks, including the large-scale FineGym and MPII Cooking 2 datasets for fine-grained action recognition.
+    - Resources: [Project Page](https://q1xiangchen.github.io/motion-prompts/)
+
 
 - **Vehicle Image Translation: Adapting Synthetic Styles to Real-World Scenarios**
   - Duration: *19/10/2023 - 30/10/2023*

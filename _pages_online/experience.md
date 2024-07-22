@@ -27,7 +27,7 @@ a:hover, a:active {
     - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
 
 ## Academic Research
-  - *01/01/2024 - 31/12/2024*: **Honours Research Student**
+  - *19/02/2024 - <span style="color: blue;">present</span>*: **Honours Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
     - Research project: A closer look at finegrained motions (Honours research project)
@@ -36,7 +36,7 @@ a:hover, a:active {
   - *20/11/2023 - 19/01/2024*: **Summer Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
-    - Research project: Point Clouds-based Gesture Recognition
+    - Research project: [Motion meets Attention: Video Motion Prompts](https://q1xiangchen.github.io/motion-prompts/)
 
   - *01/10/2023 - 31/12/2023*: **Assistant Researcher**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
