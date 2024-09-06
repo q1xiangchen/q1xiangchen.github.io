@@ -61,12 +61,13 @@ a:hover, a:active {
   - **Motion meets Attention: Video Motion Prompts**
     - Duration: *20/11/2023 - 19/01/2024*
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
+    - Accpeted by: <span style="color: red;">[**ACML 2024**](https://www.acml-conf.org/2024/) [26% acceptance rate]</span>
     - Objective: Enhance the extraction and utilization of motion features in video content for action recognition tasks by developing a novel 'motion prompt layer'. This layer employs a modified Sigmoid function with adjustable slope and shift parameters to create and modulate attention maps from frame differencing maps. This setup aims to overcome the limitations of traditional 'blind motion extraction' methods by ensuring that only relevant motion signals are highlighted and used as inputs to the model, thereby improving the accuracy and efficiency of action recognition systems.
     - Achievements:
       - Developed a novel video motion prompt layer that can be seamlessly integrated into existing video model architectures like SlowFast, X3D, and TimeSformer.
       - Introduced a temporal attention variation regularization to ensure smooth continuity of attention maps, enhancing the model's generalizability and interpretability.
       - Achieved state-of-the-art performance on various benchmarks, including the large-scale FineGym and MPII Cooking 2 datasets for fine-grained action recognition.
-    - Resources: [Project Page](https://q1xiangchen.github.io/motion-prompts/)
+    - Resources: [Project Page](https://q1xiangchen.github.io/motion-prompts/), [Paper](https://arxiv.org/abs/2407.03179)
 
   - **Vehicle Image Translation: Adapting Synthetic Styles to Real-World Scenarios**
     - Duration: *19/10/2023 - 30/10/2023*
