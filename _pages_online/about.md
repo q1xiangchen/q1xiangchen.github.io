@@ -36,7 +36,7 @@ Qixiang's research interests span a range of areas, including fine-grained recog
 
 <h3> Honors & Awards</h3>
 
-- **ACM Multimedia Outstanding Reviewers**
+- **ACM Multimedia Outstanding Reviewer**
     - Issued by: ACM Multimedia 2024.
     - Date: *24/10/2024*
 

@@ -60,7 +60,7 @@ a:hover, a:active {
 
   - **Motion meets Attention: Video Motion Prompts**
     - Duration: *20/11/2023 - 19/01/2024*
-    - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
+    - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/), [Prof. Piotr Koniusz](https://www.koniusz.com/), [Prof. Tom Gedeon](https://users.cecs.anu.edu.au/~Tom.Gedeon/)
     - Accpeted by: <span style="color: red;">[**ACML 2024**](https://www.acml-conf.org/2024/) [26% acceptance rate]</span>
     - Objective: Enhance the extraction and utilization of motion features in video content for action recognition tasks by developing a novel 'motion prompt layer'. This layer employs a modified Sigmoid function with adjustable slope and shift parameters to create and modulate attention maps from frame differencing maps. This setup aims to overcome the limitations of traditional 'blind motion extraction' methods by ensuring that only relevant motion signals are highlighted and used as inputs to the model, thereby improving the accuracy and efficiency of action recognition systems.
     - Achievements:
