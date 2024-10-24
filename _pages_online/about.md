@@ -36,6 +36,10 @@ Qixiang's research interests span a range of areas, including fine-grained recog
 
 <h3> Honors & Awards</h3>
 
+- **ACM Multimedia Outstanding Reviewers**
+    - Issued by: ACM Multimedia 2024.
+    - Date: *24/10/2024*
+
 - **The Active Intelligence Research Challenge Award**
     - Issued by: Active Intelligence Corp.  
     - Date: *19/09/2023*
