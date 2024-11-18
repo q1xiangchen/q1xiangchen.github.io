@@ -36,7 +36,7 @@ a:hover, a:active {
 
       This project focuses on ‘Analysing, Representing and Modelling data’, as video processing models require spatio-temporal modeling of time series, video frames, sequences, etc. My proposal aims at overcoming ‘Fundamental limits of data’, e.g. by learning in-the-wild and reinforcement learning to explore natural sources of information (e.g. predicting future evolution of video frames learns intrinsic manifold of video/motion data). I hope to bring my ideas to the social media, wearable devices, and recommender systems thus shaping ‘data-driven society’.
 
-  - **A closer look at finegrained motions (Honours research project)**
+  - **A closer look at finegrained motions**
     - Duration: *19/02/2024 - <span style="color: blue;">present</span>*
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/)
     - Objective: For this project, we aim to develop a model that can accurately identify the fine-grained motions performed in a video. 
@@ -58,7 +58,7 @@ a:hover, a:active {
     - Scope: Vision-language pre-training (VLP) has attracted rapidly growing attention in both computer vision and NLP communities due to the emergence of large-scale multimodal foundation models like Contrastive Language-Image Pre-training (CLIP). It is very encouraging to see that many Vision-Language (VL) systems have been deployed in industry. For example, iPhone can generate image captions read by VoiceOver for vision-impaired users. Although multimodal intelligence has been applied in many areas including image-text, core computer vision and video-text tasks, there are still many factors to be considered including robustness to new domains, fairness and responsible AI issues.
     - Aim: One common theme stands out is how to build a general-purpose multi-modal foundation model. We aim to build a foundation model that is stable and generalisable, and can be readily adopted to various downstream tasks, ranging from image-level vision tasks (e.g., image classification, retrieval, and captioning), region-level vision tasks (e.g., object detection and phrase grounding), to pixel-level vision tasks (e.g., segmentation and image generation). In order to build a general-purpose foundation model, we need a unified model architecture that can be readily scaled up; and when being pre-trained at scale, it can be readily adopted to various downstream computer vision and VL tasks.
 
-  - **Motion meets Attention: Video Motion Prompts**
+  - **Motion meets Attention: Video Motion Prompts (Honours research project)**
     - Duration: *20/11/2023 - 19/01/2024*
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/), [Prof. Piotr Koniusz](https://www.koniusz.com/), [Prof. Tom Gedeon](https://users.cecs.anu.edu.au/~Tom.Gedeon/)
     - Accpeted by: [**ACML 2024**](https://www.acml-conf.org/2024/) [<span style="color: red;">Long presentation, 5.67% for long presentations</span>,<span style="color: blue;"> 26% overall acceptance rate</span>]
