@@ -23,7 +23,7 @@ a:hover, a:active {
       - Achieved vivid and lifelike representations of digital paintings in 3D, bridging the gap between 2D and 3D painting rendering techniques.
     - Resources: [GitHub](https://github.com/HuilinChen943/paintercpp), [Technical Report ](/files/cg_report.pdf)
 
-  - **Motion meets Attention: Video Motion Prompts (Honours research project)**
+  - **Motion meets Attention: Video Motion Prompts**
     - Duration: *20/11/2023 - 19/01/2024*
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/), [Prof. Piotr Koniusz](https://www.koniusz.com/), [Prof. Tom Gedeon](https://users.cecs.anu.edu.au/~Tom.Gedeon/)
     - Accpeted by: [**ACML 2024**](https://www.acml-conf.org/2024/) [<span style="color: red;">Long presentation, 5.67% for long presentations</span>,<span style="color: blue;"> 26% overall acceptance rate</span>]
