@@ -21,13 +21,13 @@ a:hover, a:active {
     - Research project: Robust anomaly detection in human-centric videos
     - HPC grant: <span style="color:red;"> **The NCI National AI Flagship Merit Allocation Scheme**</span>
 
-  - *19/09/2023 - 25/10/2024: **Research Intern**
+  - *19/09/2023 - 25/10/2024*: **Research Intern**
     - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
     - Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
     - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
 
 ## Academic Research
-  - *19/02/2024 - 25/10/2024: **Honours Research Student**
+  - *19/02/2024 - 25/10/2024*: **Honours Research Student**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU)
     - Research project: A closer look at motions (Honours research project)
