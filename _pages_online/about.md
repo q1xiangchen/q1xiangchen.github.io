@@ -20,6 +20,8 @@ a:hover, a:active {
 
 Qixiang Chen is a final-year undergraduate student working towards a Bachelor of Advanced Computing degree (Honours), majoring in Computer Vision and Machine Learning at ANU. He is passionate about doing meaningful research and works hard to achieve his goals, always aiming to learn and improve along the way.
 
+During his Honours year (2024), Qixiang has the invaluable opportunity to enrich his research journey and deepen his understanding of the field under the supervision of [Dr. Lei Wang](https://leiwangr.github.io/).
+
 Qixiang's research interests span a range of areas, including fine-grained action recognition, video image processing, and computer vision.
 
 <!-- <h3> Honors & Awards</h3>
