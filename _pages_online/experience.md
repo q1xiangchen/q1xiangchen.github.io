@@ -14,7 +14,7 @@ a:hover, a:active {
 }
 </style>
 
-## Industry Research
+<!-- ## Industry Research
   - *01/01/2024 - 30/06/2024*: **Researcher**
     - School of Computing, ANU College of Engineering, Computing and Cybernetics
     - Supervisor: [Dr. Lei Wang](https://leiwangr.github.io/) (ANU & Data61/CSIRO)
@@ -24,7 +24,7 @@ a:hover, a:active {
   - *19/09/2023 - 25/10/2024*: **Research Intern**
     - Active Intelligence Australia Pty Ltd, Perth, Western Australia (WA)
     - Country manager: [Mr. Francis Williams](https://www.linkedin.com/in/williamsfrancis/) 
-    - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span>
+    - <span style="color:red;"> Received the **Active Intelligence Research Challenge Award**</span> -->
 
 ## Academic Research
   - *19/02/2024 - 25/10/2024*: **Honours Research Student**
