@@ -14,14 +14,14 @@ a:hover, a:active {
 }
 </style>
 
-  <!-- - **VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning**
+  - **VAU-R1: Advancing Video Anomaly Understanding via Reinforcement Fine-Tuning**
     - Duration: *01/05/2025 - 06/06/2025*
     - Motivation: Video Anomaly Understanding (VAU) is vital for smart cities, surveillance, and disaster response but remains difficult due to the need for precise spatio-temporal reasoning and interpretability. Current methods lack causal/contextual understanding and standardized reasoning benchmarks.
     - Key Contributions:
       - VAU-R1: A reinforcement fine-tuning framework that enhances MLLM reasoning on anomaly tasks, outperforming standard supervised methods.
       - VAU-Bench: The first large-scale benchmark with Chain-of-Thought annotations for anomaly reasoning, featuring diverse videos, QA pairs, temporal labels, and rationales.
       - Unified Evaluation: A comprehensive protocol assessing reasoning quality, accuracy, and temporal localization.
-    - Resources: [Project Page](https://q1xiangchen.github.io/VAU-R1/), [Code](https://github.com/GVCLab/VAU-R1), [Paper](https://arxiv.org/abs/2505.23504) -->
+    - Resources: [Project Page](https://q1xiangchen.github.io/VAU-R1/), [Code](https://github.com/GVCLab/VAU-R1), [Paper](https://arxiv.org/abs/2505.23504), [Data](https://huggingface.co/datasets/7xiang/VAU-Bench)
 
   - **Synthesizing Artistic Realism: Stroke Painting Algorithms with Shader Enhancements  (PainterApp)**
     - Duration: *23/05/2024 - 30/05/2024*
