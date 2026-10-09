@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Experience"
-    url: /experience/
+  - title: "About Me"
+    url: /#about-me
+
+  - title: "Publications"
+    url: /#publications
 
   - title: "Projects"
-    url: /projects/
-
-  - title: "Services"
-    url: /services/
-
-  - title: "Contact"
-    url: /contact/
+    url: /#projects

@@ -225,26 +225,15 @@
 
     a {
       position: relative;
+      transition: color 0.2s ease-out;
 
-      &:before {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
-        width: 100%;
-        -webkit-transition: $global-transition;
-        transition: $global-transition;
-        -webkit-transform: scaleX(0);
-            -ms-transform: scaleX(0);
-                transform: scaleX(0); /* hide*/
+      &:hover {
+        text-decoration: none;
       }
 
-      &:hover:before {
-        -webkit-transform: scaleX(1);
-            -ms-transform: scaleX(1);
-                transform: scaleX(1); /* reveal*/
+      // section currently in view (set by the scroll spy in scripts.html)
+      &.is-active {
+        color: $accent-color;
       }
     }
   }

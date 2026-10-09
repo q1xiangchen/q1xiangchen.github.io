@@ -3,7 +3,11 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  // stay pinned to the top while scrolling
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background: $background-color;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
