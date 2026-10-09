@@ -9,7 +9,7 @@ name                     : "Qixiang Chen"
 description              : "PhD Student at Monash University."
 url                      : https://q1xiangchen.github.io
 baseurl                  : ""
-repository               : "q1xiangchen.github.io"
+repository               : "q1xiangchen/q1xiangchen.github.io"
 
 
 # Site Author (shown in the left sidebar; empty fields are hidden)

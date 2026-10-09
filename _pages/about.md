@@ -282,8 +282,7 @@ His research interests include multimodal learning, 3D spatial reasoning, vision
 </div>
 
 <script>
-// Single-image zoom for work previews. The theme turns every .jpg link into a
-// gallery (.image-popup), so rebind these after its ready handler has run.
+/* Single-image zoom for work previews. The theme turns every .jpg link into a gallery (.image-popup), so rebind these after its ready handler has run. */
 document.addEventListener('DOMContentLoaded', function () {
   $(function () {
     var links = $('.work-zoom').removeClass('image-popup');
@@ -299,7 +298,7 @@ document.addEventListener('DOMContentLoaded', function () {
       }
     });
   });
-  // fetch the full-size images once the page has loaded, so zooming is instant
+  /* fetch the full-size images once the page has loaded, so zooming is instant */
   window.addEventListener('load', function () {
     document.querySelectorAll('.work-zoom').forEach(function (a) { new Image().src = a.href; });
   });

@@ -2,17 +2,16 @@
 
 <script>
   $(function () {
-    // expose the sticky masthead height to CSS (anchor offsets, sticky sidebar)
+    /* expose the sticky masthead height to CSS (anchor offsets, sticky sidebar) */
     var setMastheadHeight = function () {
       document.documentElement.style.setProperty('--masthead-h', $('.masthead').outerHeight() + 'px');
     };
     setMastheadHeight();
     $(window).on('resize', setMastheadHeight);
-    // the theme's jQuery smooth scroll uses a fixed offset that ignores the
-    // sticky masthead; native smooth scrolling + scroll-margin-top handles it
+    /* the theme's jQuery smooth scroll uses a fixed offset that ignores the sticky masthead; native smooth scrolling + scroll-margin-top handles it */
     $('a').off('click.smoothscroll');
 
-    // highlight the nav item of the section currently in view
+    /* highlight the nav item of the section currently in view */
     var navLinks = $('.masthead__menu-item a').filter(function () {
       return this.hash && this.pathname === location.pathname && document.getElementById(this.hash.slice(1));
     });
@@ -23,7 +22,7 @@
       sections.forEach(function (sec) {
         if (sec.getBoundingClientRect().top <= line) current = sec;
       });
-      // at the very bottom, the last section is the one being read
+      /* at the very bottom, the last section is the one being read */
       if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 2) current = sections[sections.length - 1];
       navLinks.each(function () {
         $(this).toggleClass('is-active', current && this.hash === '#' + current.id);
@@ -35,7 +34,7 @@
     }
   });
 
-  // Open external sites and PDFs in a new tab; in-page anchors and image zooms stay put
+  /* Open external sites and PDFs in a new tab; in-page anchors and image zooms stay put */
   document.querySelectorAll('a[href]').forEach(function (a) {
     var external = /^https?:$/.test(a.protocol) && a.hostname !== location.hostname;
     var pdf = /\.pdf$/i.test(a.pathname);
