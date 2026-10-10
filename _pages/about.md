@@ -193,7 +193,7 @@ His research interests include multimodal learning, 3D spatial reasoning, vision
 <h1 id="publications" class="section-title">Publications</h1>
 
 <div class="work">
-  <div class="work__thumb"><a class="work-zoom" href="/images/works/full/seek-and-view.jpg" title="Seek-and-View reasoning overview"><img src="/images/works/seek-and-view.jpg" alt="Seek-and-View reasoning overview"></a></div>
+  <div class="work__thumb"><a class="work-zoom" href="/images/works/full/seek-and-view.jpg" title="Passive View-and-Reason vs. our Seek-and-View reasoning"><img src="/images/works/seek-and-view.jpg" alt="Passive View-and-Reason vs. our Seek-and-View reasoning"></a></div>
   <div class="work__body">
     <div class="work__title">Seek-and-View Reasoning for Multi-View Spatial Understanding</div>
     <div class="work__authors"><b>Qixiang Chen</b>, Cheng Zhang, Fucai Ke, Chi-Wing Fu, Jianfei Cai, Jingwen Ye</div>
@@ -208,7 +208,7 @@ His research interests include multimodal learning, 3D spatial reasoning, vision
 </div>
 
 <div class="work">
-  <div class="work__thumb"><a class="work-zoom" href="/images/works/full/openview.jpg" title="OpenView: out-of-view VQA"><img src="/images/works/openview.jpg" alt="OpenView: out-of-view VQA"></a></div>
+  <div class="work__thumb"><a class="work-zoom" href="/images/works/full/openview.jpg" title="Out-of-view VQA examples and MLLM vs. human accuracy"><img src="/images/works/openview.jpg" alt="Out-of-view VQA examples and MLLM vs. human accuracy"></a></div>
   <div class="work__body">
     <div class="work__title">OpenView: Empowering MLLMs with Out-of-view VQA</div>
     <div class="work__authors"><b>Qixiang Chen</b>, Cheng Zhang, Chi-Wing Fu, Jingwen Ye, Jianfei Cai</div>
