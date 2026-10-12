@@ -55,3 +55,24 @@
     font-weight: 700;
   }
 }
+
+// on phones, tighten the bar so every link fits on one line instead of
+// collapsing into the greedy-nav dropdown button
+@media (max-width: #{$medium - 1px}) {
+  .masthead__inner-wrap {
+    padding: 0.75em 0.75em;
+  }
+
+  .masthead__menu-item--lg {
+    padding-right: 0.25em;
+  }
+
+  .greedy-nav {
+    min-width: 0;
+    font-size: 0.8125em;
+
+    .visible-links a {
+      margin: 0 0.375rem;
+    }
+  }
+}

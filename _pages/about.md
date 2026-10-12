@@ -85,6 +85,14 @@ a:hover, a:active {
   max-height: 61.8vh !important;
 }
 
+/* on phones, let the zoomed preview span the screen width */
+@media (max-width: 767px) {
+  .work-zoom-popup img.mfp-img {
+    max-width: 100%;
+    max-height: 85vh !important;
+  }
+}
+
 /* fade + slight scale when opening and closing the zoom */
 .mfp-bg.work-zoom-popup {
   opacity: 0;
