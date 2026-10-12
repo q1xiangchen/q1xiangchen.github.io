@@ -188,7 +188,7 @@ His research interests include multimodal learning, 3D spatial reasoning, vision
 
 - **Ph.D. in Information Technology**, Monash University, *Aug 2025 – Present*
 
-- **Bachelor of Advanced Computing (Honours)**, The Australian National University, *Jul 2022 – Jul 2025*
+- **Bachelor of Advanced Computing (Honours)**, The Australian National University, *Feb 2021 – Jul 2025*
 
 <h1 id="publications" class="section-title">Publications</h1>
 
