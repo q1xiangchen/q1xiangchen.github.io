@@ -130,6 +130,11 @@
   }
 }
 
+// mobile-only copy of the location, shown under the bio (see the media query below)
+.author__location {
+  display: none;
+}
+
 .author__urls-wrapper {
   position: relative;
   display: table-cell;
@@ -232,6 +237,73 @@
 
     &:hover {
       text-decoration: underline;
+    }
+  }
+}
+
+// on phones and tablets, show the profile as two rows (avatar + name, then
+// the links laid out inline) instead of hiding the links behind "Follow".
+// The theme JS shows .author__urls with an inline display:block whenever the
+// button is hidden, so the list stays block-level and the items go inline.
+@media (max-width: #{$large - 1px}) {
+  .author__avatar {
+    width: 96px;
+    vertical-align: middle;
+  }
+
+  .author__content {
+    vertical-align: middle;
+    padding-left: 21px;
+    padding-right: 0;
+    line-height: 1.3;
+  }
+
+  .author__bio {
+    margin-top: 0.25em;
+  }
+
+  .sidebar .author__location {
+    display: block;
+    margin: 0.25em 0 0;
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    margin-top: 0.75em;
+    cursor: default;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: block;
+    position: static;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    z-index: auto;
+
+    &:before,
+    &:after {
+      display: none;
+    }
+
+    li {
+      display: inline-block;
+      margin-right: 1em;
+    }
+
+    .author__urls-location {
+      display: none;
+    }
+
+    a {
+      display: inline;
+      margin-bottom: 0;
     }
   }
 }
